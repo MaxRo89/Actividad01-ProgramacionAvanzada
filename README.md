@@ -1,8 +1,8 @@
 # Tarea de Programación Avanzada
 
-Nombre: [Rosendo Maximiliano Rodriguez Alvarado]
+Nombre: Rosendo Maximiliano Rodriguez Alvarado
 
-Matrícula: [190254]
+Matrícula: 190254
 
 Curso: Programación Avanzada
 
