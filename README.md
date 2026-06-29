@@ -10,7 +10,7 @@ Curso: Programación Avanzada
 
 Este repositorio contiene los archivos de la tarea01.
 
-## Archivos agregados
+## Archivos adjuntos
 
 - `Articulo.md`: Documento que presenta el estado del arte de la IA, con la información solicitada y el enlace al trabajo en Overleaf.
  - `Resumen1.md`: Resumen sobre fundamentos de la ingeniería del conocimiento, aborda adquisición, representación y base de conocimiento.
