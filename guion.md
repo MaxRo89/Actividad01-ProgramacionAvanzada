@@ -166,3 +166,7 @@ Actualmente continúan evolucionando al combinarse con tecnologías modernas com
 
 
 ---
+# Video
+- [Exposición-Sistemas Expertos](https://youtu.be/lHj57Ph_Hxg?si=MksJhktStgNndDCw)
+
+---
